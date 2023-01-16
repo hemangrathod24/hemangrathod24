@@ -24,9 +24,9 @@
 
 <!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hemangrathod24&&theme=xcode)](https://github.com/hemangrathod24) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemangrathod24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hemangrathod24" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemangrathod24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hemangrathod24" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemangrathod24&show_icons=true&locale=en&theme=tokyonight" alt="hemangrathod24" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemangrathod24&show_icons=true&locale=en&theme=tokyonight" alt="hemangrathod24" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangrathod24&&theme=tokyonight" alt="hemangrathod24" /></p>
 
